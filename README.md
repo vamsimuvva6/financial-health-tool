@@ -1,10 +1,10 @@
 📊 AI-Powered Financial Health Assessment Platform for SMEs
 
-Demo video :https://drive.google.com/file/d/1_r-cpNmyuIFWCos8OjdBQ3lNs-sQMne8/view?usp=sharing
+Demo video: https://drive.google.com/file/d/1_r-cpNmyuIFWCos8OjdBQ3lNs-sQMne8/view?usp=sharing
 deployment:-
-frontend:https://vercel.com/vamsi-muvvas-projects/financial-health-tool
-backend:https://dashboard.render.com/web/srv-d605qsvfte5s73d8l0vg/deploys/dep-d605tdh4tr6s73a8rp6g
-github repository:
+frontend: https://vercel.com/vamsi-muvvas-projects/financial-health-tool
+backend: https://dashboard.render.com/web/srv-d605qsvfte5s73d8l0vg/deploys/dep-d605tdh4tr6s73a8rp6g
+github repository: https://github.com/vamsimuvva6/financial-health-tool.git
 
 
 
