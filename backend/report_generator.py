@@ -1,6 +1,6 @@
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
 from reportlab.lib.styles import getSampleStyleSheet
-
+import os
 
 def create_report(data, filename="financial_report.pdf"):
 
@@ -21,3 +21,15 @@ def create_report(data, filename="financial_report.pdf"):
     doc.build(elements)
 
     return filename
+
+
+
+def create_report(data, output_dir="reports", filename="report.pdf"):
+    os.makedirs(output_dir, exist_ok=True)
+    path = os.path.join(output_dir, filename)
+
+    # generate PDF at `path`
+    # (your existing PDF logic here)
+
+    return path
+
